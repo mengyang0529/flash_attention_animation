@@ -23,7 +23,7 @@ The benefits of Flash Attention are particularly impactful in natural language p
 
 - **GitHub Repository**: Explore the implementation and codebase in the official repository: [flash-attention](https://github.com/Dao-AILab/flash-attention).
 - **Research Paper**: For an in-depth understanding, refer to the original research paper that outlines the algorithm and its benefits: [Flash Attention Paper](https://arxiv.org/abs/2205.14135).
-- **Introduction**:[](https://medium.com/@sthanikamsanthosh1994/introduction-to-flash-attention-a-breakthrough-in-efficient-attention-mechanism-3eb47e8962c3)
+- **Introduction**:[a breif introduction to Flash Attention](https://medium.com/@sthanikamsanthosh1994/introduction-to-flash-attention-a-breakthrough-in-efficient-attention-mechanism-3eb47e8962c3)
 
 Flash Attention represents a significant step forward in optimizing transformer models, paving the way for their application in more demanding and resource-intensive scenarios.
 # flash_attention_animation
